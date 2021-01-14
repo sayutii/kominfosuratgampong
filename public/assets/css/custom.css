@@ -1,0 +1,19 @@
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    #gampong-form{
+        padding: 20px 80px 80px 80px !important;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    #gampong-form{
+        padding: 20px 0 40px 0 !important;
+    }
+} 
+
+.nav-title {
+    font-family: "Montserrat",sans-serif !important;
+    color: #F39200;
+    font-weight : 700;
+    font-size: large;
+}
